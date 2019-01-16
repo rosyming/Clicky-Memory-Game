@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Cow",
+    "image": "https://static.boredpanda.com/blog/wp-content/uploads/2019/01/moooody-5c3afcff2d46d__605.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Beaver",
+    "image": "https://static.boredpanda.com/blog/wp-content/uploads/2019/01/dam-it-5c3afcf30025b__605.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Elephant",
+    "image": "https://static.boredpanda.com/blog/wp-content/uploads/2019/01/irrelephant-5c3afcf9bd138__605.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Llama",
+    "image": "https://static.boredpanda.com/blog/wp-content/uploads/2019/01/drama-5c3afcf599702__605.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Moose",
+    "image": "https://static.boredpanda.com/blog/wp-content/uploads/2019/01/amoosed-5c3afcefe03c5__605.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Hedgehog",
+    "image": "https://static.boredpanda.com/blog/wp-content/uploads/2019/01/hedgehug-5c3afcf700fd9__605.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Pelican",
+    "image": "https://static.boredpanda.com/blog/wp-content/uploads/2019/01/pelicant-5c3afd0481bb8__605.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Otter",
+    "image": "https://static.boredpanda.com/blog/wp-content/uploads/2019/01/another-day-5c3afcf197411__605.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Owl",
+    "image": "https://static.boredpanda.com/blog/wp-content/uploads/2019/01/owl-by-myself-5c3afd0337e55__605.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Rabbit",
+    "image": "https://static.boredpanda.com/blog/wp-content/uploads/2019/01/Rabbit-dont-care-5c3afd0710f13__605.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Raccoon",
+    "image": "https://static.boredpanda.com/blog/wp-content/uploads/2019/01/raccooff-5c3afd0867c02__605.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Sheep",
+    "image": "https://static.boredpanda.com/blog/wp-content/uploads/2019/01/shhhh-5c3afd09b4a63__605.jpg"
+  }
+]
